@@ -1,2 +1,2 @@
 # st0263-20212
-En este repositorio se puede observar dos aplicaciones que muestran el uso de los sockets. El primero de estos muestra una aplicación sencilla para utilizar sockets sim emplear el concepto de hilos. 
+En este repositorio se pueden observar los diferentes laboratorios para la asignatura.
